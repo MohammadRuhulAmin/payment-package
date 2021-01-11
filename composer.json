@@ -1,0 +1,14 @@
+{
+    "name": "teambravo/paymentgateway_pkg",
+    "description": "this is sslcommerz payment gateway bikash nagod and all types payment process can be done.developed by Mohammad Ruhul Amin . Email :rA.01403288711@gmail.com",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "TeamBravo\\Payment\\":"src/"
+            
+        }
+    }
+}
