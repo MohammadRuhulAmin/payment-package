@@ -35,3 +35,5 @@ then Run php artisan serve
 #Step-6)hit :http://localhost:8000/example1
 
 #Step-7)hit :http://localhost:8000/example2
+
+By Mohammad Ruhul Amin
